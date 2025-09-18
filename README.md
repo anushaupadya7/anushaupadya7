@@ -14,7 +14,7 @@
 ✨ Software Engineer with 2+ years experience building SaaS platforms in EdTech, with a strong product-driven mindset <br>
 📚 Currently strengthening system design and advanced architecture, while improving problem solving through LeetCode & hands-on AI experimentation <br>
 🎯 Goals: Scaling AI-driven solutions for assessments and learning, making them intuitive, impact-oriented, and robust <br>
-🎲 Fun fact: I enjoy gamifying education, exploring animation, and turning user problems into elegant solutions 👩‍💻
+🎲 Fun fact: I enjoy gamifying education and turning user problems into elegant solutions 👩‍💻
 </p>
 
 ###
@@ -70,24 +70,12 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/anusha-upadya" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://leetcode.com/u/anushaupadya/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="40" alt="leetcode logo"  />
-  </a>
-  <a href="https://github.com/anushaupadya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" alt="github logo"  />
-  </a>
+  <a href="https://portfolio-seven-zeta-14.vercel.app/" target="_blank">Portfolio</a> • 
+  <a href="https://medium.com/@anushaupadya2001" target="_blank">Blog (Medium)</a> • 
+  <a href="https://x.com/anusha_upadya" target="_blank">Twitter/X</a> • 
+  <a href="https://www.linkedin.com/in/anusha-upadya" target="_blank">LinkedIn</a>
 </div>
 
 ###
 
-<h2 align="left">⚡ GitHub Stats</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushaupadya&show_icons=true&theme=radical" height="150" alt="stats chart"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushaupadya&theme=radical" height="150" alt="streak chart"  />
-</div>
