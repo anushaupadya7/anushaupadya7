@@ -19,13 +19,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=anushaupadya.anushaupadya&"  />
-</div>
-
-###
 
 <h1 align="center">Hey there 👋</h1>
 
@@ -68,7 +61,7 @@
   Unified AI co-teacher for academic planning, intelligent whiteboard, and performance hub.  
   Built on Google Cloud + ADK framework.  
 
-- **AI-Powered Learning Management System (2023)**  
+- **AI-Powered Learning Management System (2025)**  
   Real-time video monitoring, automated attendance, transcription, and AI-generated assessments.  
 
 - **Chrome Proctoring Extension (2023–24)**  
@@ -88,14 +81,6 @@ Bachelor of Engineering in Information Science and Engineering
 
 - Finalist, **Google Cloud Agentic AI Day 2025** → Top 700 out of 9000+ global teams.  
 - Runners-up, **Final Year Project Expo 2023**.  
-- Architect of **Skillwise.ai**, serving 50K+ monthly active users.  
-- Built Chrome extension securing 30K+ monthly assessments.  
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushaupadya&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=anushaupadya&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" />
-</div>
