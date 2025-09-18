@@ -21,54 +21,81 @@
 
 ###
 
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anushaupadya.anushaupadya&"  />
+</div>
 
 ###
 
 <h1 align="center">Hey there 👋</h1>
 
-###
+---
 
-<h3 align="left">👩‍💻 About Me</h3>
+## 🛠 Skills
 
-###
+**Technical Skills**  
+- Frontend: React.js, Next.js, JavaScript, TypeScript, Redux, HTML, CSS  
+- Backend: Node.js, Express.js, Python (FastAPI), MongoDB  
+- Cloud & DevOps: Google Cloud (GCP), Docker, Firebase, CI/CD pipelines  
+- APIs & Integrations: RESTful APIs, WebRTC, OAuth, Moodle LMS  
+- AI/ML: TensorFlow, LangChain, OpenAI GPT models, OCR, Google ADK  
 
-<p align="left">
-I'm Anusha Upadya from India 🇮🇳 <br><br>
-- 🔭 I’m currently working as a Software Development Engineer at NG-Next Tech Pvt Ltd <br>
-- 🚀 Architected and scaled **Skillwise.ai**, an AI-powered assessment platform with 50K+ monthly users <br>
-- 📚 Currently learning advanced system design, LeetCode DSA, and experimenting with Agentic AI using LangChain + FastAPI <br>
-- 🏆 Finalist at Google Cloud Agentic AI Day 2025 | Runners-up at Final Year Project Expo 2023 <br>
-- ⚡ Fun fact: I enjoy gamifying education and experimenting with animation 🎨
-</p>
+**Core Concepts**  
+- Distributed Systems, Microservices, System Design, DSA, OOPs  
 
-###
+**Soft Skills**  
+- Technical Leadership, Teamwork, Mentorship, Strategic Communication, Project Management  
 
-<h3 align="left">🛠 Languages and Tools</h3>
+---
 
-###
+## 💼 Work Experience
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo" />
+**Software Development Engineer — NG-Next Tech Pvt Ltd, Bengaluru**  
+*Feb 2023 – Present*  
+- Architected and scaled **Skillwise.ai**, an AI-powered assessment platform serving **50K+ monthly users**.  
+- Built a **WebRTC-based live monitoring system**, enabling **500+ concurrent video streams** per session.  
+- Developed an **AI-powered Chrome extension** (50K+ downloads) with multi-person & phone detection, cutting examiner review effort by 60%.  
+- Optimized frontend (React, Next.js, TypeScript) with lazy loading & caching → **35% faster load times**.  
+- Led frontend engineering team, creating reusable component libraries and improving velocity by 25%.  
+- Automated frontend deployments with **GCP CI/CD**, cutting release time by 50%.  
+- Integrated **OCR-based document analysis**, reducing manual grading effort by 50%.  
+
+---
+
+## 🚀 Projects
+
+- **Sahayak AI (2025)**  
+  Unified AI co-teacher for academic planning, intelligent whiteboard, and performance hub.  
+  Built on Google Cloud + ADK framework.  
+
+- **AI-Powered Learning Management System (2023)**  
+  Real-time video monitoring, automated attendance, transcription, and AI-generated assessments.  
+
+- **Chrome Proctoring Extension (2023–24)**  
+  Multi-person and phone detection to secure online assessments; **50K+ downloads**.  
+
+---
+
+## 🎓 Education
+
+**NMAM Institute of Technology, Karnataka**  
+Bachelor of Engineering in Information Science and Engineering  
+*2019 – 2023 | CGPA: 9.50/10*  
+
+---
+
+## 🏆 Achievements
+
+- Finalist, **Google Cloud Agentic AI Day 2025** → Top 700 out of 9000+ global teams.  
+- Runners-up, **Final Year Project Expo 2023**.  
+- Architect of **Skillwise.ai**, serving 50K+ monthly active users.  
+- Built Chrome extension securing 30K+ monthly assessments.  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anushaupadya&show_icons=true&theme=radical" height="180" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=anushaupadya&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" />
 </div>
-
