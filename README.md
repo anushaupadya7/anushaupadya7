@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠 Skills
+🛠 Skills
 
 **Technical Skills**  
 - Frontend: React.js, Next.js, JavaScript, TypeScript, Redux, HTML, CSS  
@@ -34,7 +34,7 @@
 - AI/ML: TensorFlow, LangChain, OpenAI GPT models, OCR, Google ADK  
 
 **Core Concepts**  
-- Distributed Systems, Microservices, System Design, DSA, OOPs  
+- Operating System, Computer Networks , System Design, DSA, OOPs  
 
 **Soft Skills**  
 - Technical Leadership, Teamwork, Mentorship, Strategic Communication, Project Management  
