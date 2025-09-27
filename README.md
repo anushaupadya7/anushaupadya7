@@ -23,11 +23,11 @@
 
 ## ⚡ **QUICK STATS** ⚡
 
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=anusha-upadya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=anushaupadya7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anusha-upadya&layout=compact&theme=radical&hide=cpp&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushaupadya7&layout=compact&theme=radical&hide=cpp&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 
-<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=anusha-upadya&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=anushaupadya7&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
 </div>
 
