@@ -80,7 +80,6 @@ Bachelor of Engineering in Information Science and Engineering
 - Finalist, **Google Cloud Agentic AI Day 2025** → Top 700 out of 9000+ global teams.  
 - Runners-up, **Final Year Project Expo 2023**.  
 
----
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff6b6b,ff9f43,1dd1a1&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
 </div>
