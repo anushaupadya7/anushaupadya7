@@ -89,43 +89,6 @@
 ![Communication](https://img.shields.io/badge/Communication-20B2AA?style=for-the-badge)
 ![Project Management](https://img.shields.io/badge/Project_Management-DAA520?style=for-the-badge)
 
-
----
-
-## 💼 Work Experience
-
-**Software Development Engineer — NG-Next Tech Pvt Ltd, Bengaluru**  
-*Feb 2023 – Present*  
-- Architected and scaled **Skillwise.ai**, an AI-powered assessment platform serving **50K+ monthly users**.  
-- Built a **WebRTC-based live monitoring system**, enabling **500+ concurrent video streams** per session.  
-- Developed an **AI-powered Chrome extension** (50K+ downloads) with multi-person & phone detection, cutting examiner review effort by 60%.  
-- Optimized frontend (React, Next.js, TypeScript) with lazy loading & caching → **35% faster load times**.  
-- Led frontend engineering team, creating reusable component libraries and improving velocity by 25%.  
-- Automated frontend deployments with **GCP CI/CD**, cutting release time by 50%.  
-- Integrated **OCR-based document analysis**, reducing manual grading effort by 50%.  
-
----
-
-## 🚀 Projects
-
-- **Sahayak AI (2025)**  
-  Unified AI co-teacher for academic planning, intelligent whiteboard, and performance hub.  
-  Built on Google Cloud + ADK framework.  
-
-- **AI-Powered Learning Management System (2025)**  
-  Real-time video monitoring, automated attendance, transcription, and AI-generated assessments.  
-
-- **Chrome Proctoring Extension (2023–24)**  
-  Multi-person and phone detection to secure online assessments; **50K+ downloads**.  
-
----
-
-## 🎓 Education
-
-**NMAM Institute of Technology, Karnataka**  
-Bachelor of Engineering in Information Science and Engineering  
-*2019 – 2023 | CGPA: 9.50/10*  
-
 ---
 
 ## 🏆 Achievements
