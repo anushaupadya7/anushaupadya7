@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=hey+i'm+anusha+%F0%9F%91%8B;fullstack+AI+engineer;i+build+things+that+think;no+cap+%F0%9F%A7%A2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+I'm+anusha+%F0%9F%91%8B;Fullstack+AI+Engineer;I+build+things+that+think;no+cap+%F0%9F%A7%A2" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@
   │  > whoami                                               │
   │  fullstack AI engineer who ships agents, not excuses    │
   │  > currently                                            │
-  │  making LLMs do things they probably shouldn't          │
+  │  making LLMs do things that probably I can't            │
   └─────────────────────────────────────────────────────────┘
 ```
 
@@ -40,6 +40,7 @@
 | **protocols** | MCP (Model Context Protocol) |
 | **observability** | LangSmith · Grafana |
 | **guardrails** | because even agents need therapy 🛡️ |
+| **coding companion** | claude , copilot |
 
 ---
 
